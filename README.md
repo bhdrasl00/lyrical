@@ -2,7 +2,7 @@
 
 Modern, şık ve kullanıcı dostu bir şarkı sözü arama uygulaması. İstediğiniz şarkının sözlerine anında ulaşın, orijinal albüm kapaklarıyla görsel bir şölen yaşayın.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Lyrical+App+Preview)
+
 
 ## ✨ Özellikler
 
@@ -48,5 +48,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ---
 
-**Geliştirici**: [Adınız]
+**Geliştirici**: [Bahadır Aslan]
 *Müzik ruhun gıdasıdır.* 🎧
