@@ -44,7 +44,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ## 📸 Ekran Görüntüleri
 
-*Buraya uygulamanızın ekran görüntülerini ekleyebilirsiniz.*
+
 
 ---
 
